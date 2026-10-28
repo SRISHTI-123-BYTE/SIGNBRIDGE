@@ -1,0 +1,16 @@
+{
+  "train_count": 102,
+  "val_count": 51,
+  "test_count": 51,
+  "test_users": [
+    "user_test"
+  ],
+  "val_users": [
+    "user_03"
+  ],
+  "train_users": [
+    "user_01",
+    "user_02"
+  ],
+  "generated_at": 1792517914.50899
+}

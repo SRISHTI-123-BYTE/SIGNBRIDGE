@@ -1,0 +1,3087 @@
+{
+  "samples": [
+    {
+      "file_id": "user_01_DOCTOR_1791714598804",
+      "filename": "user_01_DOCTOR_1791714598804.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_DOCTOR_1791714598804.npz",
+      "gloss": "DOCTOR",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.8041348,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_DOCTOR_1791714598804.npz"
+    },
+    {
+      "file_id": "user_01_CHEST_1791714598807",
+      "filename": "user_01_CHEST_1791714598807.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_CHEST_1791714598807.npz",
+      "gloss": "CHEST",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.8077579,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_CHEST_1791714598807.npz"
+    },
+    {
+      "file_id": "user_01_PAIN_1791714598810",
+      "filename": "user_01_PAIN_1791714598810.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_PAIN_1791714598810.npz",
+      "gloss": "PAIN",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.8104882,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_PAIN_1791714598810.npz"
+    },
+    {
+      "file_id": "user_01_SEVERE_1791714598814",
+      "filename": "user_01_SEVERE_1791714598814.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_SEVERE_1791714598814.npz",
+      "gloss": "SEVERE",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.8140285,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_SEVERE_1791714598814.npz"
+    },
+    {
+      "file_id": "user_01_POLICE_1791714598816",
+      "filename": "user_01_POLICE_1791714598816.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_POLICE_1791714598816.npz",
+      "gloss": "POLICE",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.8169847,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_POLICE_1791714598816.npz"
+    },
+    {
+      "file_id": "user_01_STATION_1791714598819",
+      "filename": "user_01_STATION_1791714598819.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_STATION_1791714598819.npz",
+      "gloss": "STATION",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.819616,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_STATION_1791714598819.npz"
+    },
+    {
+      "file_id": "user_01_WHERE_1791714598822",
+      "filename": "user_01_WHERE_1791714598822.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_WHERE_1791714598822.npz",
+      "gloss": "WHERE",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.82236,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_WHERE_1791714598822.npz"
+    },
+    {
+      "file_id": "user_01_HOSPITAL_1791714598825",
+      "filename": "user_01_HOSPITAL_1791714598825.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_HOSPITAL_1791714598825.npz",
+      "gloss": "HOSPITAL",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.8251364,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_HOSPITAL_1791714598825.npz"
+    },
+    {
+      "file_id": "user_01_GO_1791714598827",
+      "filename": "user_01_GO_1791714598827.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_GO_1791714598827.npz",
+      "gloss": "GO",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.827741,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_GO_1791714598827.npz"
+    },
+    {
+      "file_id": "user_01_HOW_1791714598831",
+      "filename": "user_01_HOW_1791714598831.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_HOW_1791714598831.npz",
+      "gloss": "HOW",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.8317678,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_HOW_1791714598831.npz"
+    },
+    {
+      "file_id": "user_01_SIT_1791714598834",
+      "filename": "user_01_SIT_1791714598834.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_SIT_1791714598834.npz",
+      "gloss": "SIT",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.834944,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_SIT_1791714598834.npz"
+    },
+    {
+      "file_id": "user_01_WAIT_1791714598837",
+      "filename": "user_01_WAIT_1791714598837.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_WAIT_1791714598837.npz",
+      "gloss": "WAIT",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.8376956,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_WAIT_1791714598837.npz"
+    },
+    {
+      "file_id": "user_01_10_1791714598840",
+      "filename": "user_01_10_1791714598840.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_10_1791714598840.npz",
+      "gloss": "10",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.840206,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_10_1791714598840.npz"
+    },
+    {
+      "file_id": "user_01_MINUTES_1791714598843",
+      "filename": "user_01_MINUTES_1791714598843.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_MINUTES_1791714598843.npz",
+      "gloss": "MINUTES",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.8432052,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_MINUTES_1791714598843.npz"
+    },
+    {
+      "file_id": "user_01_HELP_1791714598846",
+      "filename": "user_01_HELP_1791714598846.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_HELP_1791714598846.npz",
+      "gloss": "HELP",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.846666,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_HELP_1791714598846.npz"
+    },
+    {
+      "file_id": "user_01_ME_1791714598849",
+      "filename": "user_01_ME_1791714598849.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_ME_1791714598849.npz",
+      "gloss": "ME",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.8496494,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_ME_1791714598849.npz"
+    },
+    {
+      "file_id": "user_01_PLEASE_1791714598852",
+      "filename": "user_01_PLEASE_1791714598852.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_PLEASE_1791714598852.npz",
+      "gloss": "PLEASE",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.852706,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_PLEASE_1791714598852.npz"
+    },
+    {
+      "file_id": "user_01_MEDICINE_1791714598855",
+      "filename": "user_01_MEDICINE_1791714598855.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_MEDICINE_1791714598855.npz",
+      "gloss": "MEDICINE",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.8555503,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_MEDICINE_1791714598855.npz"
+    },
+    {
+      "file_id": "user_01_TIME_1791714598858",
+      "filename": "user_01_TIME_1791714598858.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_TIME_1791714598858.npz",
+      "gloss": "TIME",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.8586197,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_TIME_1791714598858.npz"
+    },
+    {
+      "file_id": "user_01_WHAT_1791714598861",
+      "filename": "user_01_WHAT_1791714598861.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_WHAT_1791714598861.npz",
+      "gloss": "WHAT",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.861858,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_WHAT_1791714598861.npz"
+    },
+    {
+      "file_id": "user_01_NAME_1791714598867",
+      "filename": "user_01_NAME_1791714598867.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_NAME_1791714598867.npz",
+      "gloss": "NAME",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.8675103,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_NAME_1791714598867.npz"
+    },
+    {
+      "file_id": "user_01_YOUR_1791714598871",
+      "filename": "user_01_YOUR_1791714598871.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_YOUR_1791714598871.npz",
+      "gloss": "YOUR",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.8713064,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_YOUR_1791714598871.npz"
+    },
+    {
+      "file_id": "user_01_YES_1791714598875",
+      "filename": "user_01_YES_1791714598875.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_YES_1791714598875.npz",
+      "gloss": "YES",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.8752038,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_YES_1791714598875.npz"
+    },
+    {
+      "file_id": "user_01_NO_1791714598878",
+      "filename": "user_01_NO_1791714598878.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_NO_1791714598878.npz",
+      "gloss": "NO",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.8780084,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_NO_1791714598878.npz"
+    },
+    {
+      "file_id": "user_01_THANK_YOU_1791714598882",
+      "filename": "user_01_THANK_YOU_1791714598882.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_THANK_YOU_1791714598882.npz",
+      "gloss": "THANK_YOU",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.8826144,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_THANK_YOU_1791714598882.npz"
+    },
+    {
+      "file_id": "user_01_HELLO_1791714598885",
+      "filename": "user_01_HELLO_1791714598885.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_HELLO_1791714598885.npz",
+      "gloss": "HELLO",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.885914,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_HELLO_1791714598885.npz"
+    },
+    {
+      "file_id": "user_01_WATER_1791714598888",
+      "filename": "user_01_WATER_1791714598888.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_WATER_1791714598888.npz",
+      "gloss": "WATER",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.888843,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_WATER_1791714598888.npz"
+    },
+    {
+      "file_id": "user_01_NEED_1791714598891",
+      "filename": "user_01_NEED_1791714598891.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_NEED_1791714598891.npz",
+      "gloss": "NEED",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.8917212,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_NEED_1791714598891.npz"
+    },
+    {
+      "file_id": "user_01_EMERGENCY_1791714598894",
+      "filename": "user_01_EMERGENCY_1791714598894.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_EMERGENCY_1791714598894.npz",
+      "gloss": "EMERGENCY",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.894687,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_EMERGENCY_1791714598894.npz"
+    },
+    {
+      "file_id": "user_01_FEVER_1791714598899",
+      "filename": "user_01_FEVER_1791714598899.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_FEVER_1791714598899.npz",
+      "gloss": "FEVER",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.8998582,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_FEVER_1791714598899.npz"
+    },
+    {
+      "file_id": "user_01_BREATHING_1791714598904",
+      "filename": "user_01_BREATHING_1791714598904.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_BREATHING_1791714598904.npz",
+      "gloss": "BREATHING",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.904366,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_BREATHING_1791714598904.npz"
+    },
+    {
+      "file_id": "user_01_PROBLEM_1791714598907",
+      "filename": "user_01_PROBLEM_1791714598907.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_PROBLEM_1791714598907.npz",
+      "gloss": "PROBLEM",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.9075887,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_PROBLEM_1791714598907.npz"
+    },
+    {
+      "file_id": "user_01_CALL_1791714598910",
+      "filename": "user_01_CALL_1791714598910.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_CALL_1791714598910.npz",
+      "gloss": "CALL",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.9104452,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_CALL_1791714598910.npz"
+    },
+    {
+      "file_id": "user_01_FAMILY_1791714598916",
+      "filename": "user_01_FAMILY_1791714598916.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_FAMILY_1791714598916.npz",
+      "gloss": "FAMILY",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.9165633,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_FAMILY_1791714598916.npz"
+    },
+    {
+      "file_id": "user_01_MONEY_1791714598921",
+      "filename": "user_01_MONEY_1791714598921.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_MONEY_1791714598921.npz",
+      "gloss": "MONEY",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.921057,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_MONEY_1791714598921.npz"
+    },
+    {
+      "file_id": "user_01_ACCOUNT_1791714598924",
+      "filename": "user_01_ACCOUNT_1791714598924.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_ACCOUNT_1791714598924.npz",
+      "gloss": "ACCOUNT",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.9243402,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_ACCOUNT_1791714598924.npz"
+    },
+    {
+      "file_id": "user_01_BANK_1791714598927",
+      "filename": "user_01_BANK_1791714598927.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_BANK_1791714598927.npz",
+      "gloss": "BANK",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.927328,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_BANK_1791714598927.npz"
+    },
+    {
+      "file_id": "user_01_DEPOSIT_1791714598933",
+      "filename": "user_01_DEPOSIT_1791714598933.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_DEPOSIT_1791714598933.npz",
+      "gloss": "DEPOSIT",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.9333723,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_DEPOSIT_1791714598933.npz"
+    },
+    {
+      "file_id": "user_01_WITHDRAW_1791714598937",
+      "filename": "user_01_WITHDRAW_1791714598937.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_WITHDRAW_1791714598937.npz",
+      "gloss": "WITHDRAW",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.9373682,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_WITHDRAW_1791714598937.npz"
+    },
+    {
+      "file_id": "user_01_SIGN_1791714598940",
+      "filename": "user_01_SIGN_1791714598940.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_SIGN_1791714598940.npz",
+      "gloss": "SIGN",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.9407365,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_SIGN_1791714598940.npz"
+    },
+    {
+      "file_id": "user_01_LANGUAGE_1791714598943",
+      "filename": "user_01_LANGUAGE_1791714598943.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_LANGUAGE_1791714598943.npz",
+      "gloss": "LANGUAGE",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.9439085,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_LANGUAGE_1791714598943.npz"
+    },
+    {
+      "file_id": "user_01_INTERPRETER_1791714598949",
+      "filename": "user_01_INTERPRETER_1791714598949.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_INTERPRETER_1791714598949.npz",
+      "gloss": "INTERPRETER",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.9493325,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92
+      },
+      "relative_path": "raw/user_01_INTERPRETER_1791714598949.npz"
+    },
+    {
+      "file_id": "user_02_DOCTOR_1791714598952",
+      "filename": "user_02_DOCTOR_1791714598952.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_DOCTOR_1791714598952.npz",
+      "gloss": "DOCTOR",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.9526381,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_DOCTOR_1791714598952.npz"
+    },
+    {
+      "file_id": "user_02_CHEST_1791714598955",
+      "filename": "user_02_CHEST_1791714598955.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_CHEST_1791714598955.npz",
+      "gloss": "CHEST",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.9558845,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_CHEST_1791714598955.npz"
+    },
+    {
+      "file_id": "user_02_PAIN_1791714598959",
+      "filename": "user_02_PAIN_1791714598959.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_PAIN_1791714598959.npz",
+      "gloss": "PAIN",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.959051,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_PAIN_1791714598959.npz"
+    },
+    {
+      "file_id": "user_02_SEVERE_1791714598963",
+      "filename": "user_02_SEVERE_1791714598963.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_SEVERE_1791714598963.npz",
+      "gloss": "SEVERE",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.9638085,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_SEVERE_1791714598963.npz"
+    },
+    {
+      "file_id": "user_02_POLICE_1791714598967",
+      "filename": "user_02_POLICE_1791714598967.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_POLICE_1791714598967.npz",
+      "gloss": "POLICE",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.9676974,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_POLICE_1791714598967.npz"
+    },
+    {
+      "file_id": "user_02_STATION_1791714598971",
+      "filename": "user_02_STATION_1791714598971.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_STATION_1791714598971.npz",
+      "gloss": "STATION",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.9710152,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_STATION_1791714598971.npz"
+    },
+    {
+      "file_id": "user_02_WHERE_1791714598973",
+      "filename": "user_02_WHERE_1791714598973.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_WHERE_1791714598973.npz",
+      "gloss": "WHERE",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.973985,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_WHERE_1791714598973.npz"
+    },
+    {
+      "file_id": "user_02_HOSPITAL_1791714598977",
+      "filename": "user_02_HOSPITAL_1791714598977.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_HOSPITAL_1791714598977.npz",
+      "gloss": "HOSPITAL",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.977249,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_HOSPITAL_1791714598977.npz"
+    },
+    {
+      "file_id": "user_02_GO_1791714598980",
+      "filename": "user_02_GO_1791714598980.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_GO_1791714598980.npz",
+      "gloss": "GO",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.9808698,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_GO_1791714598980.npz"
+    },
+    {
+      "file_id": "user_02_HOW_1791714598984",
+      "filename": "user_02_HOW_1791714598984.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_HOW_1791714598984.npz",
+      "gloss": "HOW",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.9844694,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_HOW_1791714598984.npz"
+    },
+    {
+      "file_id": "user_02_SIT_1791714598988",
+      "filename": "user_02_SIT_1791714598988.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_SIT_1791714598988.npz",
+      "gloss": "SIT",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.9882927,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_SIT_1791714598988.npz"
+    },
+    {
+      "file_id": "user_02_WAIT_1791714598991",
+      "filename": "user_02_WAIT_1791714598991.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_WAIT_1791714598991.npz",
+      "gloss": "WAIT",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.9919875,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_WAIT_1791714598991.npz"
+    },
+    {
+      "file_id": "user_02_10_1791714598996",
+      "filename": "user_02_10_1791714598996.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_10_1791714598996.npz",
+      "gloss": "10",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714598.9967647,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_10_1791714598996.npz"
+    },
+    {
+      "file_id": "user_02_MINUTES_1791714599000",
+      "filename": "user_02_MINUTES_1791714599000.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_MINUTES_1791714599000.npz",
+      "gloss": "MINUTES",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.0006664,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_MINUTES_1791714599000.npz"
+    },
+    {
+      "file_id": "user_02_HELP_1791714599004",
+      "filename": "user_02_HELP_1791714599004.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_HELP_1791714599004.npz",
+      "gloss": "HELP",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.0043638,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_HELP_1791714599004.npz"
+    },
+    {
+      "file_id": "user_02_ME_1791714599007",
+      "filename": "user_02_ME_1791714599007.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_ME_1791714599007.npz",
+      "gloss": "ME",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.007929,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_ME_1791714599007.npz"
+    },
+    {
+      "file_id": "user_02_PLEASE_1791714599012",
+      "filename": "user_02_PLEASE_1791714599012.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_PLEASE_1791714599012.npz",
+      "gloss": "PLEASE",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.012425,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_PLEASE_1791714599012.npz"
+    },
+    {
+      "file_id": "user_02_MEDICINE_1791714599017",
+      "filename": "user_02_MEDICINE_1791714599017.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_MEDICINE_1791714599017.npz",
+      "gloss": "MEDICINE",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.0170405,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_MEDICINE_1791714599017.npz"
+    },
+    {
+      "file_id": "user_02_TIME_1791714599020",
+      "filename": "user_02_TIME_1791714599020.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_TIME_1791714599020.npz",
+      "gloss": "TIME",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.0208046,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_TIME_1791714599020.npz"
+    },
+    {
+      "file_id": "user_02_WHAT_1791714599025",
+      "filename": "user_02_WHAT_1791714599025.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_WHAT_1791714599025.npz",
+      "gloss": "WHAT",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.0250251,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_WHAT_1791714599025.npz"
+    },
+    {
+      "file_id": "user_02_NAME_1791714599029",
+      "filename": "user_02_NAME_1791714599029.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_NAME_1791714599029.npz",
+      "gloss": "NAME",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.0298316,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_NAME_1791714599029.npz"
+    },
+    {
+      "file_id": "user_02_YOUR_1791714599034",
+      "filename": "user_02_YOUR_1791714599034.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_YOUR_1791714599034.npz",
+      "gloss": "YOUR",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.0341942,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_YOUR_1791714599034.npz"
+    },
+    {
+      "file_id": "user_02_YES_1791714599037",
+      "filename": "user_02_YES_1791714599037.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_YES_1791714599037.npz",
+      "gloss": "YES",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.0378094,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_YES_1791714599037.npz"
+    },
+    {
+      "file_id": "user_02_NO_1791714599041",
+      "filename": "user_02_NO_1791714599041.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_NO_1791714599041.npz",
+      "gloss": "NO",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.0416548,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_NO_1791714599041.npz"
+    },
+    {
+      "file_id": "user_02_THANK_YOU_1791714599046",
+      "filename": "user_02_THANK_YOU_1791714599046.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_THANK_YOU_1791714599046.npz",
+      "gloss": "THANK_YOU",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.0462148,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_THANK_YOU_1791714599046.npz"
+    },
+    {
+      "file_id": "user_02_HELLO_1791714599050",
+      "filename": "user_02_HELLO_1791714599050.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_HELLO_1791714599050.npz",
+      "gloss": "HELLO",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.0502884,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_HELLO_1791714599050.npz"
+    },
+    {
+      "file_id": "user_02_WATER_1791714599053",
+      "filename": "user_02_WATER_1791714599053.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_WATER_1791714599053.npz",
+      "gloss": "WATER",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.0539925,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_WATER_1791714599053.npz"
+    },
+    {
+      "file_id": "user_02_NEED_1791714599057",
+      "filename": "user_02_NEED_1791714599057.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_NEED_1791714599057.npz",
+      "gloss": "NEED",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.0579755,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_NEED_1791714599057.npz"
+    },
+    {
+      "file_id": "user_02_EMERGENCY_1791714599063",
+      "filename": "user_02_EMERGENCY_1791714599063.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_EMERGENCY_1791714599063.npz",
+      "gloss": "EMERGENCY",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.0631502,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_EMERGENCY_1791714599063.npz"
+    },
+    {
+      "file_id": "user_02_FEVER_1791714599067",
+      "filename": "user_02_FEVER_1791714599067.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_FEVER_1791714599067.npz",
+      "gloss": "FEVER",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.0672948,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_FEVER_1791714599067.npz"
+    },
+    {
+      "file_id": "user_02_BREATHING_1791714599070",
+      "filename": "user_02_BREATHING_1791714599070.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_BREATHING_1791714599070.npz",
+      "gloss": "BREATHING",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.0708914,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_BREATHING_1791714599070.npz"
+    },
+    {
+      "file_id": "user_02_PROBLEM_1791714599074",
+      "filename": "user_02_PROBLEM_1791714599074.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_PROBLEM_1791714599074.npz",
+      "gloss": "PROBLEM",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.074693,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_PROBLEM_1791714599074.npz"
+    },
+    {
+      "file_id": "user_02_CALL_1791714599078",
+      "filename": "user_02_CALL_1791714599078.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_CALL_1791714599078.npz",
+      "gloss": "CALL",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.0783958,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_CALL_1791714599078.npz"
+    },
+    {
+      "file_id": "user_02_FAMILY_1791714599083",
+      "filename": "user_02_FAMILY_1791714599083.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_FAMILY_1791714599083.npz",
+      "gloss": "FAMILY",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.0831301,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_FAMILY_1791714599083.npz"
+    },
+    {
+      "file_id": "user_02_MONEY_1791714599086",
+      "filename": "user_02_MONEY_1791714599086.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_MONEY_1791714599086.npz",
+      "gloss": "MONEY",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.0868123,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_MONEY_1791714599086.npz"
+    },
+    {
+      "file_id": "user_02_ACCOUNT_1791714599090",
+      "filename": "user_02_ACCOUNT_1791714599090.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_ACCOUNT_1791714599090.npz",
+      "gloss": "ACCOUNT",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.0907402,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_ACCOUNT_1791714599090.npz"
+    },
+    {
+      "file_id": "user_02_BANK_1791714599094",
+      "filename": "user_02_BANK_1791714599094.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_BANK_1791714599094.npz",
+      "gloss": "BANK",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.0949852,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_BANK_1791714599094.npz"
+    },
+    {
+      "file_id": "user_02_DEPOSIT_1791714599099",
+      "filename": "user_02_DEPOSIT_1791714599099.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_DEPOSIT_1791714599099.npz",
+      "gloss": "DEPOSIT",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.0999177,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_DEPOSIT_1791714599099.npz"
+    },
+    {
+      "file_id": "user_02_WITHDRAW_1791714599103",
+      "filename": "user_02_WITHDRAW_1791714599103.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_WITHDRAW_1791714599103.npz",
+      "gloss": "WITHDRAW",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.1036868,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_WITHDRAW_1791714599103.npz"
+    },
+    {
+      "file_id": "user_02_SIGN_1791714599107",
+      "filename": "user_02_SIGN_1791714599107.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_SIGN_1791714599107.npz",
+      "gloss": "SIGN",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.107649,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_SIGN_1791714599107.npz"
+    },
+    {
+      "file_id": "user_02_LANGUAGE_1791714599112",
+      "filename": "user_02_LANGUAGE_1791714599112.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_LANGUAGE_1791714599112.npz",
+      "gloss": "LANGUAGE",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.112391,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_LANGUAGE_1791714599112.npz"
+    },
+    {
+      "file_id": "user_02_INTERPRETER_1791714599116",
+      "filename": "user_02_INTERPRETER_1791714599116.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_INTERPRETER_1791714599116.npz",
+      "gloss": "INTERPRETER",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.116817,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08
+      },
+      "relative_path": "raw/user_02_INTERPRETER_1791714599116.npz"
+    },
+    {
+      "file_id": "user_03_DOCTOR_1791714599120",
+      "filename": "user_03_DOCTOR_1791714599120.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_DOCTOR_1791714599120.npz",
+      "gloss": "DOCTOR",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.1206167,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_DOCTOR_1791714599120.npz"
+    },
+    {
+      "file_id": "user_03_CHEST_1791714599125",
+      "filename": "user_03_CHEST_1791714599125.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_CHEST_1791714599125.npz",
+      "gloss": "CHEST",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.1256204,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_CHEST_1791714599125.npz"
+    },
+    {
+      "file_id": "user_03_PAIN_1791714599131",
+      "filename": "user_03_PAIN_1791714599131.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_PAIN_1791714599131.npz",
+      "gloss": "PAIN",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.1310184,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_PAIN_1791714599131.npz"
+    },
+    {
+      "file_id": "user_03_SEVERE_1791714599135",
+      "filename": "user_03_SEVERE_1791714599135.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_SEVERE_1791714599135.npz",
+      "gloss": "SEVERE",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.1355708,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_SEVERE_1791714599135.npz"
+    },
+    {
+      "file_id": "user_03_POLICE_1791714599139",
+      "filename": "user_03_POLICE_1791714599139.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_POLICE_1791714599139.npz",
+      "gloss": "POLICE",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.1392827,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_POLICE_1791714599139.npz"
+    },
+    {
+      "file_id": "user_03_STATION_1791714599143",
+      "filename": "user_03_STATION_1791714599143.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_STATION_1791714599143.npz",
+      "gloss": "STATION",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.143492,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_STATION_1791714599143.npz"
+    },
+    {
+      "file_id": "user_03_WHERE_1791714599148",
+      "filename": "user_03_WHERE_1791714599148.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_WHERE_1791714599148.npz",
+      "gloss": "WHERE",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.148957,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_WHERE_1791714599148.npz"
+    },
+    {
+      "file_id": "user_03_HOSPITAL_1791714599153",
+      "filename": "user_03_HOSPITAL_1791714599153.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_HOSPITAL_1791714599153.npz",
+      "gloss": "HOSPITAL",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.1533153,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_HOSPITAL_1791714599153.npz"
+    },
+    {
+      "file_id": "user_03_GO_1791714599157",
+      "filename": "user_03_GO_1791714599157.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_GO_1791714599157.npz",
+      "gloss": "GO",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.1571584,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_GO_1791714599157.npz"
+    },
+    {
+      "file_id": "user_03_HOW_1791714599161",
+      "filename": "user_03_HOW_1791714599161.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_HOW_1791714599161.npz",
+      "gloss": "HOW",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.1615937,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_HOW_1791714599161.npz"
+    },
+    {
+      "file_id": "user_03_SIT_1791714599167",
+      "filename": "user_03_SIT_1791714599167.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_SIT_1791714599167.npz",
+      "gloss": "SIT",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.167082,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_SIT_1791714599167.npz"
+    },
+    {
+      "file_id": "user_03_WAIT_1791714599171",
+      "filename": "user_03_WAIT_1791714599171.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_WAIT_1791714599171.npz",
+      "gloss": "WAIT",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.1712346,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_WAIT_1791714599171.npz"
+    },
+    {
+      "file_id": "user_03_10_1791714599175",
+      "filename": "user_03_10_1791714599175.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_10_1791714599175.npz",
+      "gloss": "10",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.1750417,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_10_1791714599175.npz"
+    },
+    {
+      "file_id": "user_03_MINUTES_1791714599180",
+      "filename": "user_03_MINUTES_1791714599180.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_MINUTES_1791714599180.npz",
+      "gloss": "MINUTES",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.1808312,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_MINUTES_1791714599180.npz"
+    },
+    {
+      "file_id": "user_03_HELP_1791714599185",
+      "filename": "user_03_HELP_1791714599185.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_HELP_1791714599185.npz",
+      "gloss": "HELP",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.1855018,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_HELP_1791714599185.npz"
+    },
+    {
+      "file_id": "user_03_ME_1791714599189",
+      "filename": "user_03_ME_1791714599189.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_ME_1791714599189.npz",
+      "gloss": "ME",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.189472,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_ME_1791714599189.npz"
+    },
+    {
+      "file_id": "user_03_PLEASE_1791714599193",
+      "filename": "user_03_PLEASE_1791714599193.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_PLEASE_1791714599193.npz",
+      "gloss": "PLEASE",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.1936889,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_PLEASE_1791714599193.npz"
+    },
+    {
+      "file_id": "user_03_MEDICINE_1791714599200",
+      "filename": "user_03_MEDICINE_1791714599200.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_MEDICINE_1791714599200.npz",
+      "gloss": "MEDICINE",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.2002249,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_MEDICINE_1791714599200.npz"
+    },
+    {
+      "file_id": "user_03_TIME_1791714599204",
+      "filename": "user_03_TIME_1791714599204.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_TIME_1791714599204.npz",
+      "gloss": "TIME",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.2045298,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_TIME_1791714599204.npz"
+    },
+    {
+      "file_id": "user_03_WHAT_1791714599208",
+      "filename": "user_03_WHAT_1791714599208.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_WHAT_1791714599208.npz",
+      "gloss": "WHAT",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.2089992,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_WHAT_1791714599208.npz"
+    },
+    {
+      "file_id": "user_03_NAME_1791714599214",
+      "filename": "user_03_NAME_1791714599214.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_NAME_1791714599214.npz",
+      "gloss": "NAME",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.214195,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_NAME_1791714599214.npz"
+    },
+    {
+      "file_id": "user_03_YOUR_1791714599219",
+      "filename": "user_03_YOUR_1791714599219.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_YOUR_1791714599219.npz",
+      "gloss": "YOUR",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.2191184,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_YOUR_1791714599219.npz"
+    },
+    {
+      "file_id": "user_03_YES_1791714599223",
+      "filename": "user_03_YES_1791714599223.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_YES_1791714599223.npz",
+      "gloss": "YES",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.2234163,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_YES_1791714599223.npz"
+    },
+    {
+      "file_id": "user_03_NO_1791714599227",
+      "filename": "user_03_NO_1791714599227.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_NO_1791714599227.npz",
+      "gloss": "NO",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.2277246,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_NO_1791714599227.npz"
+    },
+    {
+      "file_id": "user_03_THANK_YOU_1791714599232",
+      "filename": "user_03_THANK_YOU_1791714599232.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_THANK_YOU_1791714599232.npz",
+      "gloss": "THANK_YOU",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.232867,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_THANK_YOU_1791714599232.npz"
+    },
+    {
+      "file_id": "user_03_HELLO_1791714599237",
+      "filename": "user_03_HELLO_1791714599237.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_HELLO_1791714599237.npz",
+      "gloss": "HELLO",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.237568,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_HELLO_1791714599237.npz"
+    },
+    {
+      "file_id": "user_03_WATER_1791714599242",
+      "filename": "user_03_WATER_1791714599242.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_WATER_1791714599242.npz",
+      "gloss": "WATER",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.2421699,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_WATER_1791714599242.npz"
+    },
+    {
+      "file_id": "user_03_NEED_1791714599247",
+      "filename": "user_03_NEED_1791714599247.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_NEED_1791714599247.npz",
+      "gloss": "NEED",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.247449,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_NEED_1791714599247.npz"
+    },
+    {
+      "file_id": "user_03_EMERGENCY_1791714599252",
+      "filename": "user_03_EMERGENCY_1791714599252.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_EMERGENCY_1791714599252.npz",
+      "gloss": "EMERGENCY",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.2528582,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_EMERGENCY_1791714599252.npz"
+    },
+    {
+      "file_id": "user_03_FEVER_1791714599257",
+      "filename": "user_03_FEVER_1791714599257.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_FEVER_1791714599257.npz",
+      "gloss": "FEVER",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.2576697,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_FEVER_1791714599257.npz"
+    },
+    {
+      "file_id": "user_03_BREATHING_1791714599262",
+      "filename": "user_03_BREATHING_1791714599262.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_BREATHING_1791714599262.npz",
+      "gloss": "BREATHING",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.2626774,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_BREATHING_1791714599262.npz"
+    },
+    {
+      "file_id": "user_03_PROBLEM_1791714599267",
+      "filename": "user_03_PROBLEM_1791714599267.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_PROBLEM_1791714599267.npz",
+      "gloss": "PROBLEM",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.2678213,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_PROBLEM_1791714599267.npz"
+    },
+    {
+      "file_id": "user_03_CALL_1791714599272",
+      "filename": "user_03_CALL_1791714599272.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_CALL_1791714599272.npz",
+      "gloss": "CALL",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.2727027,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_CALL_1791714599272.npz"
+    },
+    {
+      "file_id": "user_03_FAMILY_1791714599277",
+      "filename": "user_03_FAMILY_1791714599277.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_FAMILY_1791714599277.npz",
+      "gloss": "FAMILY",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.2773077,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_FAMILY_1791714599277.npz"
+    },
+    {
+      "file_id": "user_03_MONEY_1791714599283",
+      "filename": "user_03_MONEY_1791714599283.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_MONEY_1791714599283.npz",
+      "gloss": "MONEY",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.2833211,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_MONEY_1791714599283.npz"
+    },
+    {
+      "file_id": "user_03_ACCOUNT_1791714599287",
+      "filename": "user_03_ACCOUNT_1791714599287.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_ACCOUNT_1791714599287.npz",
+      "gloss": "ACCOUNT",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.2876573,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_ACCOUNT_1791714599287.npz"
+    },
+    {
+      "file_id": "user_03_BANK_1791714599292",
+      "filename": "user_03_BANK_1791714599292.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_BANK_1791714599292.npz",
+      "gloss": "BANK",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.2921965,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_BANK_1791714599292.npz"
+    },
+    {
+      "file_id": "user_03_DEPOSIT_1791714599298",
+      "filename": "user_03_DEPOSIT_1791714599298.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_DEPOSIT_1791714599298.npz",
+      "gloss": "DEPOSIT",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.2985308,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_DEPOSIT_1791714599298.npz"
+    },
+    {
+      "file_id": "user_03_WITHDRAW_1791714599303",
+      "filename": "user_03_WITHDRAW_1791714599303.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_WITHDRAW_1791714599303.npz",
+      "gloss": "WITHDRAW",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.303713,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_WITHDRAW_1791714599303.npz"
+    },
+    {
+      "file_id": "user_03_SIGN_1791714599309",
+      "filename": "user_03_SIGN_1791714599309.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_SIGN_1791714599309.npz",
+      "gloss": "SIGN",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.3094065,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_SIGN_1791714599309.npz"
+    },
+    {
+      "file_id": "user_03_LANGUAGE_1791714599315",
+      "filename": "user_03_LANGUAGE_1791714599315.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_LANGUAGE_1791714599315.npz",
+      "gloss": "LANGUAGE",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.315451,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_LANGUAGE_1791714599315.npz"
+    },
+    {
+      "file_id": "user_03_INTERPRETER_1791714599320",
+      "filename": "user_03_INTERPRETER_1791714599320.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_INTERPRETER_1791714599320.npz",
+      "gloss": "INTERPRETER",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.320789,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.97
+      },
+      "relative_path": "raw/user_03_INTERPRETER_1791714599320.npz"
+    },
+    {
+      "file_id": "user_test_DOCTOR_1791714599325",
+      "filename": "user_test_DOCTOR_1791714599325.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_DOCTOR_1791714599325.npz",
+      "gloss": "DOCTOR",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.3256867,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_DOCTOR_1791714599325.npz"
+    },
+    {
+      "file_id": "user_test_CHEST_1791714599332",
+      "filename": "user_test_CHEST_1791714599332.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_CHEST_1791714599332.npz",
+      "gloss": "CHEST",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.332165,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_CHEST_1791714599332.npz"
+    },
+    {
+      "file_id": "user_test_PAIN_1791714599338",
+      "filename": "user_test_PAIN_1791714599338.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_PAIN_1791714599338.npz",
+      "gloss": "PAIN",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.3387475,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_PAIN_1791714599338.npz"
+    },
+    {
+      "file_id": "user_test_SEVERE_1791714599343",
+      "filename": "user_test_SEVERE_1791714599343.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_SEVERE_1791714599343.npz",
+      "gloss": "SEVERE",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.3435626,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_SEVERE_1791714599343.npz"
+    },
+    {
+      "file_id": "user_test_POLICE_1791714599349",
+      "filename": "user_test_POLICE_1791714599349.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_POLICE_1791714599349.npz",
+      "gloss": "POLICE",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.3497503,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_POLICE_1791714599349.npz"
+    },
+    {
+      "file_id": "user_test_STATION_1791714599354",
+      "filename": "user_test_STATION_1791714599354.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_STATION_1791714599354.npz",
+      "gloss": "STATION",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.3546598,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_STATION_1791714599354.npz"
+    },
+    {
+      "file_id": "user_test_WHERE_1791714599359",
+      "filename": "user_test_WHERE_1791714599359.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_WHERE_1791714599359.npz",
+      "gloss": "WHERE",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.3595736,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_WHERE_1791714599359.npz"
+    },
+    {
+      "file_id": "user_test_HOSPITAL_1791714599366",
+      "filename": "user_test_HOSPITAL_1791714599366.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_HOSPITAL_1791714599366.npz",
+      "gloss": "HOSPITAL",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.366908,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_HOSPITAL_1791714599366.npz"
+    },
+    {
+      "file_id": "user_test_GO_1791714599372",
+      "filename": "user_test_GO_1791714599372.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_GO_1791714599372.npz",
+      "gloss": "GO",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.3721342,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_GO_1791714599372.npz"
+    },
+    {
+      "file_id": "user_test_HOW_1791714599377",
+      "filename": "user_test_HOW_1791714599377.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_HOW_1791714599377.npz",
+      "gloss": "HOW",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.3771183,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_HOW_1791714599377.npz"
+    },
+    {
+      "file_id": "user_test_SIT_1791714599383",
+      "filename": "user_test_SIT_1791714599383.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_SIT_1791714599383.npz",
+      "gloss": "SIT",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.3835766,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_SIT_1791714599383.npz"
+    },
+    {
+      "file_id": "user_test_WAIT_1791714599388",
+      "filename": "user_test_WAIT_1791714599388.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_WAIT_1791714599388.npz",
+      "gloss": "WAIT",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.3886764,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_WAIT_1791714599388.npz"
+    },
+    {
+      "file_id": "user_test_10_1791714599393",
+      "filename": "user_test_10_1791714599393.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_10_1791714599393.npz",
+      "gloss": "10",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.3938506,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_10_1791714599393.npz"
+    },
+    {
+      "file_id": "user_test_MINUTES_1791714599400",
+      "filename": "user_test_MINUTES_1791714599400.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_MINUTES_1791714599400.npz",
+      "gloss": "MINUTES",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.4002993,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_MINUTES_1791714599400.npz"
+    },
+    {
+      "file_id": "user_test_HELP_1791714599405",
+      "filename": "user_test_HELP_1791714599405.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_HELP_1791714599405.npz",
+      "gloss": "HELP",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.4051268,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_HELP_1791714599405.npz"
+    },
+    {
+      "file_id": "user_test_ME_1791714599409",
+      "filename": "user_test_ME_1791714599409.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_ME_1791714599409.npz",
+      "gloss": "ME",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.4098685,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_ME_1791714599409.npz"
+    },
+    {
+      "file_id": "user_test_PLEASE_1791714599415",
+      "filename": "user_test_PLEASE_1791714599415.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_PLEASE_1791714599415.npz",
+      "gloss": "PLEASE",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.4157417,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_PLEASE_1791714599415.npz"
+    },
+    {
+      "file_id": "user_test_MEDICINE_1791714599420",
+      "filename": "user_test_MEDICINE_1791714599420.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_MEDICINE_1791714599420.npz",
+      "gloss": "MEDICINE",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.4206154,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_MEDICINE_1791714599420.npz"
+    },
+    {
+      "file_id": "user_test_TIME_1791714599425",
+      "filename": "user_test_TIME_1791714599425.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_TIME_1791714599425.npz",
+      "gloss": "TIME",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.4254074,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_TIME_1791714599425.npz"
+    },
+    {
+      "file_id": "user_test_WHAT_1791714599431",
+      "filename": "user_test_WHAT_1791714599431.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_WHAT_1791714599431.npz",
+      "gloss": "WHAT",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.4318135,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_WHAT_1791714599431.npz"
+    },
+    {
+      "file_id": "user_test_NAME_1791714599436",
+      "filename": "user_test_NAME_1791714599436.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_NAME_1791714599436.npz",
+      "gloss": "NAME",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.4368684,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_NAME_1791714599436.npz"
+    },
+    {
+      "file_id": "user_test_YOUR_1791714599441",
+      "filename": "user_test_YOUR_1791714599441.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_YOUR_1791714599441.npz",
+      "gloss": "YOUR",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.441599,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_YOUR_1791714599441.npz"
+    },
+    {
+      "file_id": "user_test_YES_1791714599446",
+      "filename": "user_test_YES_1791714599446.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_YES_1791714599446.npz",
+      "gloss": "YES",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.446608,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_YES_1791714599446.npz"
+    },
+    {
+      "file_id": "user_test_NO_1791714599451",
+      "filename": "user_test_NO_1791714599451.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_NO_1791714599451.npz",
+      "gloss": "NO",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.4518495,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_NO_1791714599451.npz"
+    },
+    {
+      "file_id": "user_test_THANK_YOU_1791714599456",
+      "filename": "user_test_THANK_YOU_1791714599456.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_THANK_YOU_1791714599456.npz",
+      "gloss": "THANK_YOU",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.456406,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_THANK_YOU_1791714599456.npz"
+    },
+    {
+      "file_id": "user_test_HELLO_1791714599461",
+      "filename": "user_test_HELLO_1791714599461.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_HELLO_1791714599461.npz",
+      "gloss": "HELLO",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.461415,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_HELLO_1791714599461.npz"
+    },
+    {
+      "file_id": "user_test_WATER_1791714599467",
+      "filename": "user_test_WATER_1791714599467.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_WATER_1791714599467.npz",
+      "gloss": "WATER",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.467239,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_WATER_1791714599467.npz"
+    },
+    {
+      "file_id": "user_test_NEED_1791714599472",
+      "filename": "user_test_NEED_1791714599472.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_NEED_1791714599472.npz",
+      "gloss": "NEED",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.4721065,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_NEED_1791714599472.npz"
+    },
+    {
+      "file_id": "user_test_EMERGENCY_1791714599476",
+      "filename": "user_test_EMERGENCY_1791714599476.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_EMERGENCY_1791714599476.npz",
+      "gloss": "EMERGENCY",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.4766598,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_EMERGENCY_1791714599476.npz"
+    },
+    {
+      "file_id": "user_test_FEVER_1791714599482",
+      "filename": "user_test_FEVER_1791714599482.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_FEVER_1791714599482.npz",
+      "gloss": "FEVER",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.482451,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_FEVER_1791714599482.npz"
+    },
+    {
+      "file_id": "user_test_BREATHING_1791714599487",
+      "filename": "user_test_BREATHING_1791714599487.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_BREATHING_1791714599487.npz",
+      "gloss": "BREATHING",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.4875445,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_BREATHING_1791714599487.npz"
+    },
+    {
+      "file_id": "user_test_PROBLEM_1791714599493",
+      "filename": "user_test_PROBLEM_1791714599493.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_PROBLEM_1791714599493.npz",
+      "gloss": "PROBLEM",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.4932175,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_PROBLEM_1791714599493.npz"
+    },
+    {
+      "file_id": "user_test_CALL_1791714599500",
+      "filename": "user_test_CALL_1791714599500.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_CALL_1791714599500.npz",
+      "gloss": "CALL",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.500315,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_CALL_1791714599500.npz"
+    },
+    {
+      "file_id": "user_test_FAMILY_1791714599505",
+      "filename": "user_test_FAMILY_1791714599505.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_FAMILY_1791714599505.npz",
+      "gloss": "FAMILY",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.5055106,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_FAMILY_1791714599505.npz"
+    },
+    {
+      "file_id": "user_test_MONEY_1791714599510",
+      "filename": "user_test_MONEY_1791714599510.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_MONEY_1791714599510.npz",
+      "gloss": "MONEY",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.5105927,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_MONEY_1791714599510.npz"
+    },
+    {
+      "file_id": "user_test_ACCOUNT_1791714599516",
+      "filename": "user_test_ACCOUNT_1791714599516.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_ACCOUNT_1791714599516.npz",
+      "gloss": "ACCOUNT",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.516463,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_ACCOUNT_1791714599516.npz"
+    },
+    {
+      "file_id": "user_test_BANK_1791714599521",
+      "filename": "user_test_BANK_1791714599521.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_BANK_1791714599521.npz",
+      "gloss": "BANK",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.521396,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_BANK_1791714599521.npz"
+    },
+    {
+      "file_id": "user_test_DEPOSIT_1791714599526",
+      "filename": "user_test_DEPOSIT_1791714599526.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_DEPOSIT_1791714599526.npz",
+      "gloss": "DEPOSIT",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.5263126,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_DEPOSIT_1791714599526.npz"
+    },
+    {
+      "file_id": "user_test_WITHDRAW_1791714599532",
+      "filename": "user_test_WITHDRAW_1791714599532.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_WITHDRAW_1791714599532.npz",
+      "gloss": "WITHDRAW",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.5326838,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_WITHDRAW_1791714599532.npz"
+    },
+    {
+      "file_id": "user_test_SIGN_1791714599537",
+      "filename": "user_test_SIGN_1791714599537.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_SIGN_1791714599537.npz",
+      "gloss": "SIGN",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.5379272,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_SIGN_1791714599537.npz"
+    },
+    {
+      "file_id": "user_test_LANGUAGE_1791714599543",
+      "filename": "user_test_LANGUAGE_1791714599543.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_LANGUAGE_1791714599543.npz",
+      "gloss": "LANGUAGE",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.5431402,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_LANGUAGE_1791714599543.npz"
+    },
+    {
+      "file_id": "user_test_INTERPRETER_1791714599549",
+      "filename": "user_test_INTERPRETER_1791714599549.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_INTERPRETER_1791714599549.npz",
+      "gloss": "INTERPRETER",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1791714599.549204,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04
+      },
+      "relative_path": "raw/user_test_INTERPRETER_1791714599549.npz"
+    },
+    {
+      "file_id": "user_01_CARD_1792517881082",
+      "filename": "user_01_CARD_1792517881082.npz",
+      "relative_path": "raw/user_01_CARD_1792517881082.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_CARD_1792517881082.npz",
+      "gloss": "CARD",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.0826,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92,
+        "tempo_factor": 1.08
+      }
+    },
+    {
+      "file_id": "user_01_COME_1792517881094",
+      "filename": "user_01_COME_1792517881094.npz",
+      "relative_path": "raw/user_01_COME_1792517881094.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_COME_1792517881094.npz",
+      "gloss": "COME",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.0940962,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92,
+        "tempo_factor": 1.08
+      }
+    },
+    {
+      "file_id": "user_01_STOP_1792517881102",
+      "filename": "user_01_STOP_1792517881102.npz",
+      "relative_path": "raw/user_01_STOP_1792517881102.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_STOP_1792517881102.npz",
+      "gloss": "STOP",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.1027582,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92,
+        "tempo_factor": 1.08
+      }
+    },
+    {
+      "file_id": "user_01_LEARN_1792517881109",
+      "filename": "user_01_LEARN_1792517881109.npz",
+      "relative_path": "raw/user_01_LEARN_1792517881109.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_LEARN_1792517881109.npz",
+      "gloss": "LEARN",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.1095285,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92,
+        "tempo_factor": 1.08
+      }
+    },
+    {
+      "file_id": "user_01_TEACHER_1792517881118",
+      "filename": "user_01_TEACHER_1792517881118.npz",
+      "relative_path": "raw/user_01_TEACHER_1792517881118.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_TEACHER_1792517881118.npz",
+      "gloss": "TEACHER",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.1185272,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92,
+        "tempo_factor": 1.08
+      }
+    },
+    {
+      "file_id": "user_01_STUDENT_1792517881124",
+      "filename": "user_01_STUDENT_1792517881124.npz",
+      "relative_path": "raw/user_01_STUDENT_1792517881124.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_STUDENT_1792517881124.npz",
+      "gloss": "STUDENT",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.1248908,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92,
+        "tempo_factor": 1.08
+      }
+    },
+    {
+      "file_id": "user_01_SCHOOL_1792517881131",
+      "filename": "user_01_SCHOOL_1792517881131.npz",
+      "relative_path": "raw/user_01_SCHOOL_1792517881131.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_SCHOOL_1792517881131.npz",
+      "gloss": "SCHOOL",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.1319826,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92,
+        "tempo_factor": 1.08
+      }
+    },
+    {
+      "file_id": "user_01_FOOD_1792517881139",
+      "filename": "user_01_FOOD_1792517881139.npz",
+      "relative_path": "raw/user_01_FOOD_1792517881139.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_FOOD_1792517881139.npz",
+      "gloss": "FOOD",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.1391268,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92,
+        "tempo_factor": 1.08
+      }
+    },
+    {
+      "file_id": "user_01_SLEEP_1792517881145",
+      "filename": "user_01_SLEEP_1792517881145.npz",
+      "relative_path": "raw/user_01_SLEEP_1792517881145.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_01_SLEEP_1792517881145.npz",
+      "gloss": "SLEEP",
+      "user_id": "user_01",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.145243,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.92,
+        "tempo_factor": 1.08
+      }
+    },
+    {
+      "file_id": "user_02_CARD_1792517881152",
+      "filename": "user_02_CARD_1792517881152.npz",
+      "relative_path": "raw/user_02_CARD_1792517881152.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_CARD_1792517881152.npz",
+      "gloss": "CARD",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.1520567,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08,
+        "tempo_factor": 0.94
+      }
+    },
+    {
+      "file_id": "user_02_COME_1792517881158",
+      "filename": "user_02_COME_1792517881158.npz",
+      "relative_path": "raw/user_02_COME_1792517881158.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_COME_1792517881158.npz",
+      "gloss": "COME",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.158446,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08,
+        "tempo_factor": 0.94
+      }
+    },
+    {
+      "file_id": "user_02_STOP_1792517881168",
+      "filename": "user_02_STOP_1792517881168.npz",
+      "relative_path": "raw/user_02_STOP_1792517881168.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_STOP_1792517881168.npz",
+      "gloss": "STOP",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.1680202,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08,
+        "tempo_factor": 0.94
+      }
+    },
+    {
+      "file_id": "user_02_LEARN_1792517881174",
+      "filename": "user_02_LEARN_1792517881174.npz",
+      "relative_path": "raw/user_02_LEARN_1792517881174.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_LEARN_1792517881174.npz",
+      "gloss": "LEARN",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.17413,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08,
+        "tempo_factor": 0.94
+      }
+    },
+    {
+      "file_id": "user_02_TEACHER_1792517881181",
+      "filename": "user_02_TEACHER_1792517881181.npz",
+      "relative_path": "raw/user_02_TEACHER_1792517881181.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_TEACHER_1792517881181.npz",
+      "gloss": "TEACHER",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.1810834,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08,
+        "tempo_factor": 0.94
+      }
+    },
+    {
+      "file_id": "user_02_STUDENT_1792517881188",
+      "filename": "user_02_STUDENT_1792517881188.npz",
+      "relative_path": "raw/user_02_STUDENT_1792517881188.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_STUDENT_1792517881188.npz",
+      "gloss": "STUDENT",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.1882145,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08,
+        "tempo_factor": 0.94
+      }
+    },
+    {
+      "file_id": "user_02_SCHOOL_1792517881194",
+      "filename": "user_02_SCHOOL_1792517881194.npz",
+      "relative_path": "raw/user_02_SCHOOL_1792517881194.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_SCHOOL_1792517881194.npz",
+      "gloss": "SCHOOL",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.1945202,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08,
+        "tempo_factor": 0.94
+      }
+    },
+    {
+      "file_id": "user_02_FOOD_1792517881202",
+      "filename": "user_02_FOOD_1792517881202.npz",
+      "relative_path": "raw/user_02_FOOD_1792517881202.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_FOOD_1792517881202.npz",
+      "gloss": "FOOD",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.2020051,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08,
+        "tempo_factor": 0.94
+      }
+    },
+    {
+      "file_id": "user_02_SLEEP_1792517881209",
+      "filename": "user_02_SLEEP_1792517881209.npz",
+      "relative_path": "raw/user_02_SLEEP_1792517881209.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_02_SLEEP_1792517881209.npz",
+      "gloss": "SLEEP",
+      "user_id": "user_02",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.2096786,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.08,
+        "tempo_factor": 0.94
+      }
+    },
+    {
+      "file_id": "user_03_CARD_1792517881217",
+      "filename": "user_03_CARD_1792517881217.npz",
+      "relative_path": "raw/user_03_CARD_1792517881217.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_CARD_1792517881217.npz",
+      "gloss": "CARD",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.2171483,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.98,
+        "tempo_factor": 1.02
+      }
+    },
+    {
+      "file_id": "user_03_COME_1792517881224",
+      "filename": "user_03_COME_1792517881224.npz",
+      "relative_path": "raw/user_03_COME_1792517881224.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_COME_1792517881224.npz",
+      "gloss": "COME",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.2245004,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.98,
+        "tempo_factor": 1.02
+      }
+    },
+    {
+      "file_id": "user_03_STOP_1792517881231",
+      "filename": "user_03_STOP_1792517881231.npz",
+      "relative_path": "raw/user_03_STOP_1792517881231.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_STOP_1792517881231.npz",
+      "gloss": "STOP",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.2310624,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.98,
+        "tempo_factor": 1.02
+      }
+    },
+    {
+      "file_id": "user_03_LEARN_1792517881237",
+      "filename": "user_03_LEARN_1792517881237.npz",
+      "relative_path": "raw/user_03_LEARN_1792517881237.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_LEARN_1792517881237.npz",
+      "gloss": "LEARN",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.2376745,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.98,
+        "tempo_factor": 1.02
+      }
+    },
+    {
+      "file_id": "user_03_TEACHER_1792517881244",
+      "filename": "user_03_TEACHER_1792517881244.npz",
+      "relative_path": "raw/user_03_TEACHER_1792517881244.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_TEACHER_1792517881244.npz",
+      "gloss": "TEACHER",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.2441008,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.98,
+        "tempo_factor": 1.02
+      }
+    },
+    {
+      "file_id": "user_03_STUDENT_1792517881252",
+      "filename": "user_03_STUDENT_1792517881252.npz",
+      "relative_path": "raw/user_03_STUDENT_1792517881252.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_STUDENT_1792517881252.npz",
+      "gloss": "STUDENT",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.2526045,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.98,
+        "tempo_factor": 1.02
+      }
+    },
+    {
+      "file_id": "user_03_SCHOOL_1792517881259",
+      "filename": "user_03_SCHOOL_1792517881259.npz",
+      "relative_path": "raw/user_03_SCHOOL_1792517881259.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_SCHOOL_1792517881259.npz",
+      "gloss": "SCHOOL",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.2591274,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.98,
+        "tempo_factor": 1.02
+      }
+    },
+    {
+      "file_id": "user_03_FOOD_1792517881267",
+      "filename": "user_03_FOOD_1792517881267.npz",
+      "relative_path": "raw/user_03_FOOD_1792517881267.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_FOOD_1792517881267.npz",
+      "gloss": "FOOD",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.2676973,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.98,
+        "tempo_factor": 1.02
+      }
+    },
+    {
+      "file_id": "user_03_SLEEP_1792517881274",
+      "filename": "user_03_SLEEP_1792517881274.npz",
+      "relative_path": "raw/user_03_SLEEP_1792517881274.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_03_SLEEP_1792517881274.npz",
+      "gloss": "SLEEP",
+      "user_id": "user_03",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.274577,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 0.98,
+        "tempo_factor": 1.02
+      }
+    },
+    {
+      "file_id": "user_test_CARD_1792517881281",
+      "filename": "user_test_CARD_1792517881281.npz",
+      "relative_path": "raw/user_test_CARD_1792517881281.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_CARD_1792517881281.npz",
+      "gloss": "CARD",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.2819319,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04,
+        "tempo_factor": 0.97
+      }
+    },
+    {
+      "file_id": "user_test_COME_1792517881288",
+      "filename": "user_test_COME_1792517881288.npz",
+      "relative_path": "raw/user_test_COME_1792517881288.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_COME_1792517881288.npz",
+      "gloss": "COME",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.2885897,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04,
+        "tempo_factor": 0.97
+      }
+    },
+    {
+      "file_id": "user_test_STOP_1792517881295",
+      "filename": "user_test_STOP_1792517881295.npz",
+      "relative_path": "raw/user_test_STOP_1792517881295.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_STOP_1792517881295.npz",
+      "gloss": "STOP",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.295112,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04,
+        "tempo_factor": 0.97
+      }
+    },
+    {
+      "file_id": "user_test_LEARN_1792517881302",
+      "filename": "user_test_LEARN_1792517881302.npz",
+      "relative_path": "raw/user_test_LEARN_1792517881302.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_LEARN_1792517881302.npz",
+      "gloss": "LEARN",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.3029065,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04,
+        "tempo_factor": 0.97
+      }
+    },
+    {
+      "file_id": "user_test_TEACHER_1792517881309",
+      "filename": "user_test_TEACHER_1792517881309.npz",
+      "relative_path": "raw/user_test_TEACHER_1792517881309.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_TEACHER_1792517881309.npz",
+      "gloss": "TEACHER",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.3098817,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04,
+        "tempo_factor": 0.97
+      }
+    },
+    {
+      "file_id": "user_test_STUDENT_1792517881317",
+      "filename": "user_test_STUDENT_1792517881317.npz",
+      "relative_path": "raw/user_test_STUDENT_1792517881317.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_STUDENT_1792517881317.npz",
+      "gloss": "STUDENT",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.3172362,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04,
+        "tempo_factor": 0.97
+      }
+    },
+    {
+      "file_id": "user_test_SCHOOL_1792517881324",
+      "filename": "user_test_SCHOOL_1792517881324.npz",
+      "relative_path": "raw/user_test_SCHOOL_1792517881324.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_SCHOOL_1792517881324.npz",
+      "gloss": "SCHOOL",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.3240194,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04,
+        "tempo_factor": 0.97
+      }
+    },
+    {
+      "file_id": "user_test_FOOD_1792517881330",
+      "filename": "user_test_FOOD_1792517881330.npz",
+      "relative_path": "raw/user_test_FOOD_1792517881330.npz",
+      "filepath": "C:\\Users\\srish\\.gemini\\antigravity\\scratch\\signbridge\\backend\\dataset\\raw\\user_test_FOOD_1792517881330.npz",
+      "gloss": "FOOD",
+      "user_id": "user_test",
+      "num_frames": 30,
+      "fps": 30.0,
+      "timestamp": 1792517881.3308392,
+      "metadata": {
+        "source": "procedural_biomechanical_synthesis",
+        "signer_scale": 1.04,
+        "tempo_factor": 0.97
+      }
+    }
+  ],
+  "created_at": 1791714598.7586362,
+  "version": "1.0",
+  "updated_at": 1792517881.3332047
+}

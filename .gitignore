@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Build artifacts
+dist/
+frontend/dist/
+build/
+
+# Python caches and virtual environments
+__pycache__/
+backend/__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs and system
+*.log
+*.tmp
+.DS_Store
+Thumbs.db

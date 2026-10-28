@@ -1,0 +1,366 @@
+{
+  "evaluation_timestamp": 1792515220.899252,
+  "total_test_samples": 42,
+  "test_users": [
+    "user_test"
+  ],
+  "comparison": {
+    "rule_based_stgcn": {
+      "top1_accuracy_pct": 95.24,
+      "top3_accuracy_pct": 95.24,
+      "macro_precision": 0.9524,
+      "macro_recall": 0.9524,
+      "macro_f1": 0.9524,
+      "mean_latency_ms": 7.01,
+      "fps_throughput": 142.7,
+      "total_correct": 40,
+      "total_confusions": 2
+    },
+    "trained_pytorch_stgcn": {
+      "top1_accuracy_pct": 73.81,
+      "top3_accuracy_pct": 97.62,
+      "macro_precision": 0.6349,
+      "macro_recall": 0.7381,
+      "macro_f1": 0.6667,
+      "mean_latency_ms": 3.73,
+      "fps_throughput": 267.8,
+      "total_correct": 31,
+      "total_confusions": 11
+    }
+  },
+  "per_sign_breakdown": {
+    "DOCTOR": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 1
+    },
+    "CHEST": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 3
+    },
+    "PAIN": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 1
+    },
+    "SEVERE": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 1
+    },
+    "POLICE": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 0,
+      "rule_pred_count": 1,
+      "nn_pred_count": 1
+    },
+    "STATION": {
+      "ground_truth": 1,
+      "rule_correct": 0,
+      "nn_correct": 1,
+      "rule_pred_count": 0,
+      "nn_pred_count": 1
+    },
+    "WHERE": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 1
+    },
+    "HOSPITAL": {
+      "ground_truth": 1,
+      "rule_correct": 0,
+      "nn_correct": 1,
+      "rule_pred_count": 0,
+      "nn_pred_count": 1
+    },
+    "GO": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 1
+    },
+    "HOW": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 1
+    },
+    "SIT": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 1
+    },
+    "WAIT": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 1
+    },
+    "10": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 2
+    },
+    "MINUTES": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 0,
+      "rule_pred_count": 1,
+      "nn_pred_count": 0
+    },
+    "HELP": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 1
+    },
+    "ME": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 2
+    },
+    "PLEASE": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 0,
+      "rule_pred_count": 1,
+      "nn_pred_count": 0
+    },
+    "MEDICINE": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 0,
+      "rule_pred_count": 1,
+      "nn_pred_count": 0
+    },
+    "TIME": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 1
+    },
+    "WHAT": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 1
+    },
+    "NAME": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 1
+    },
+    "YOUR": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 1
+    },
+    "YES": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 0,
+      "rule_pred_count": 1,
+      "nn_pred_count": 0
+    },
+    "NO": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 1
+    },
+    "THANK_YOU": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 1
+    },
+    "HELLO": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 0,
+      "rule_pred_count": 1,
+      "nn_pred_count": 0
+    },
+    "WATER": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 1
+    },
+    "NEED": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 1
+    },
+    "EMERGENCY": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 1
+    },
+    "FEVER": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 1
+    },
+    "BREATHING": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 0,
+      "rule_pred_count": 1,
+      "nn_pred_count": 0
+    },
+    "PROBLEM": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 0,
+      "rule_pred_count": 1,
+      "nn_pred_count": 0
+    },
+    "CALL": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 2
+    },
+    "FAMILY": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 1
+    },
+    "MONEY": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 2
+    },
+    "ACCOUNT": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 2
+    },
+    "BANK": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 1
+    },
+    "DEPOSIT": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 2
+    },
+    "WITHDRAW": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 0,
+      "rule_pred_count": 1,
+      "nn_pred_count": 0
+    },
+    "SIGN": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 1,
+      "rule_pred_count": 1,
+      "nn_pred_count": 3
+    },
+    "LANGUAGE": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 0,
+      "rule_pred_count": 1,
+      "nn_pred_count": 0
+    },
+    "INTERPRETER": {
+      "ground_truth": 1,
+      "rule_correct": 1,
+      "nn_correct": 0,
+      "rule_pred_count": 1,
+      "nn_pred_count": 0
+    }
+  },
+  "top_rule_confusions": [
+    {
+      "true": "STATION",
+      "predicted": "<BLANK>",
+      "count": 1
+    },
+    {
+      "true": "HOSPITAL",
+      "predicted": "<BLANK>",
+      "count": 1
+    }
+  ],
+  "top_nn_confusions": [
+    {
+      "true": "POLICE",
+      "predicted": "CALL",
+      "count": 1
+    },
+    {
+      "true": "MINUTES",
+      "predicted": "ACCOUNT",
+      "count": 1
+    },
+    {
+      "true": "PLEASE",
+      "predicted": "ME",
+      "count": 1
+    },
+    {
+      "true": "MEDICINE",
+      "predicted": "MONEY",
+      "count": 1
+    },
+    {
+      "true": "YES",
+      "predicted": "10",
+      "count": 1
+    }
+  ]
+}
